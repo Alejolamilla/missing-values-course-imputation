@@ -12,7 +12,7 @@ ozon3
 pyreadr
 upsetplot
 statsmodels==0.13.2
-nhanes==0.5.1
+nhanes
 statsmodels
 fancyimpute
 pyjanitor
